@@ -60,11 +60,11 @@ This will start the Heartly application. Follow the on-screen instructions to co
 - **Real-Time Risk Assessment:** Displays the risk percentage in real-time as users answer the questions.
 - **Cross-Platform Compatibility:** Compatible with Windows, macOS, and Linux.
 
-![Screenshot 1](https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(1).png)
-![Screenshot 2](https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(2).png)
-![Screenshot 3](https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(3).png)
-![Screenshot 4](https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(4).png)
-![Screenshot 5](https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(5).png)
+<img src="https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(1).png" alt="Screenshot 1" width="300"/>
+<img src="https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(2).png" alt="Screenshot 2" width="300"/>
+<img src="https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(3).png" alt="Screenshot 3" width="300"/>
+<img src="https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(4).png" alt="Screenshot 4" width="300"/>
+<img src="https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(5).png" alt="Screenshot 5" width="300"/>
 
 ## Usage
 
