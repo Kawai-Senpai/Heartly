@@ -1,0 +1,6 @@
+kivy==2.2.1
+kivymd==1.1.1
+torch==2.0.0+cu118
+pandas==2.0.0
+numpy==1.24.2
+matplotlib==3.7.1
