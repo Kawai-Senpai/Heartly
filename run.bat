@@ -1,1 +1,1 @@
-python main.py
+python kivy_Chat_HeartDisease.py

@@ -15,7 +15,7 @@ import re
 import torch
 import torch.nn as nn
 
-device= "cuda" if torch.cuda.is_available() else "cpu"
+device= "cpu"
 
 Q = {
     'age':[['Hi, \nwelcome to Heartily. \nLet\'s start by asking your age.', 'Hi there ! \nHow old are you?', 'Hello, \nwhat is your age?'], 
@@ -942,3 +942,6 @@ class HeartDiseaseAppPredictor(App):
         # add similar screens for each input field
 
         return self.screen_manager
+
+if __name__ == "__main__":
+    HeartDiseaseAppPredictor().run()
