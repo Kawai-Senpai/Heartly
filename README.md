@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ### Step 3: Run the Application
 
 ```bash
-python main.py
+python kivy_Chat_HeartDisease.py
 ```
 
 This will start the Heartly application. Follow the on-screen instructions to complete the risk assessment.
