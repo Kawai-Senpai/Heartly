@@ -1,5 +1,6 @@
-
 # Heartly: Heart Disease Risk Assessment App
+
+![Heartly Logo](https://github.com/Kawai-Senpai/Heartly/blob/381aaaf70745ef58905fa69037e4af89acd513c1/Heartly_LOGO.png)
 
 ## Overview
 
