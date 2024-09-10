@@ -61,11 +61,16 @@ This will start the Heartly application. Follow the on-screen instructions to co
 - **Cross-Platform Compatibility:** Compatible with Windows, macOS, and Linux.
 
 
-<img src="https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(1).png" alt="Screenshot 1" width="300"/>
-<img src="https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(2).png" alt="Screenshot 2" width="300"/>
-<img src="https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(3).png" alt="Screenshot 3" width="300"/>
-<img src="https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(4).png" alt="Screenshot 4" width="300"/>
-<img src="https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(5).png" alt="Screenshot 5" width="300"/>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+<img src="https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(1).png" alt="Screenshot 1" width="200"/>
+<img src="https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(2).png" alt="Screenshot 2" width="200"/>
+<img src="https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(3).png" alt="Screenshot 3" width="200"/>
+<img src="https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(4).png" alt="Screenshot 4" width="200"/>
+<img src="https://github.com/Kawai-Senpai/Heartly/blob/7bfcee9326100bc60ddd8ae0c931a6f0abe1f14d/Screenshots/Heartly%20Screenshot%20(5).png" alt="Screenshot 5" width="200"/>
+
+</div>
+
 
 
 ## Usage
